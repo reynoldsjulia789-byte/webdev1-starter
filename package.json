@@ -1,0 +1,20 @@
+{
+  "name": "webdev1-starter",
+  "version": "1.0.0",
+  "description": "learning node and npm",
+  "homepage": "https://github.com/reynoldsjulia789-byte/webdev1-starter#readme",
+  "bugs": {
+    "url": "https://github.com/reynoldsjulia789-byte/webdev1-starter/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reynoldsjulia789-byte/webdev1-starter.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
