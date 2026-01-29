@@ -3,10 +3,12 @@
   "version": "1.0.0",
   "description": "learning node and npm",
   "homepage": "https://github.com/reynoldsjulia789-byte/webdev1-starter#readme",
-  "bugs": {
+  "bugs":
+  {
     "url": "https://github.com/reynoldsjulia789-byte/webdev1-starter/issues"
   },
-  "repository": {
+  "repository":
+  {
     "type": "git",
     "url": "git+https://github.com/reynoldsjulia789-byte/webdev1-starter.git"
   },
@@ -14,7 +16,9 @@
   "author": "",
   "type": "commonjs",
   "main": "index.js",
-  "scripts": {
+  "scripts":
+  {
+    "pizza": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
